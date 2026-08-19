@@ -16,7 +16,7 @@
 
 ## About Me
 
-IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on experience in full-stack development and applied machine learning through academic projects. Skilled in building RESTful APIs, web scraping, and data preprocessing. Currently seeking a **Software Development / Data Science internship**.
+IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on experience in full-stack development using the **MERN stack** and **Django**, along with applied machine learning through academic projects. Skilled in building RESTful APIs, web scraping, and data preprocessing. Currently seeking a **Software Development / Data Science internship**.
 
 <br/>
 
