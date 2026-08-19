@@ -147,7 +147,6 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 
 ![Followers](https://img.shields.io/github/followers/kavya179?label=Followers&style=for-the-badge&logo=github&color=2b3137&labelColor=181717)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=2b3137&labelColor=181717&label=Public%20Repos&style=for-the-badge&logo=github&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkavya179)
-![Top Language](https://img.shields.io/github/languages/top/kavya179/CreatorSync?label=Top%20Language&style=for-the-badge&color=2b3137&labelColor=181717)
 ![Profile Views](https://komarev.com/ghpvc/?username=kavya179&label=Profile%20Views&style=for-the-badge&color=2b3137&labelColor=181717)
 
 </div>
