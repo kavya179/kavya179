@@ -156,6 +156,10 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 
 <div align="center">
 
+### 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyaparmar17)
+
 <sub>Thanks for visiting my profile — always happy to connect and collaborate! ⭐</sub>
 
 </div>
