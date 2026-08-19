@@ -4,7 +4,7 @@
 
 **IT Engineering Student · Full-Stack Developer · ML Enthusiast**
 
-Ahmedabad, Gujarat, India
+📍 Ahmedabad, Gujarat, India &nbsp;|&nbsp; 🎓 3rd Year, B.Tech IT, LJ University &nbsp;|&nbsp; 🟢 Open to Internship & Full-Time Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyaparmar17)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kavyaparmar17906@gmail.com)
@@ -119,16 +119,17 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kavya179&label=Public%20Repos&query=%24.public_repos&color=blue&style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/kavya179?label=Followers&style=for-the-badge&logo=github&color=blue)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kavya179&label=Following&query=%24.following&color=blue&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/kavya179?label=Followers&style=for-the-badge&logo=github&color=2b3137&labelColor=181717)
+![Repos](https://img.shields.io/badge/dynamic/json?color=2b3137&labelColor=181717&label=Public%20Repos&style=for-the-badge&logo=github&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkavya179)
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-📍 Ahmedabad, Gujarat, India &nbsp;·&nbsp; ✉️ [kavyaparmar17906@gmail.com](mailto:kavyaparmar17906@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/kavyaparmar17)
+<sub>Thanks for visiting my profile — always happy to connect and collaborate! ⭐</sub>
 
 </div>
