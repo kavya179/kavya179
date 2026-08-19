@@ -148,6 +148,11 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 ![Followers](https://img.shields.io/github/followers/kavya179?label=Followers&style=for-the-badge&logo=github&color=2b3137&labelColor=181717)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=2b3137&labelColor=181717&label=Public%20Repos&style=for-the-badge&logo=github&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkavya179)
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavya179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kavya's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya179&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165"/>
+
 </div>
 
 <br/>
