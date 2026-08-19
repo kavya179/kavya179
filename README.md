@@ -42,7 +42,7 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 ### 🎓 [PlaceSync](https://github.com/kavya179/PlaceSync)
 **College Placement Portal**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-013243?style=flat-square&logo=scikitlearn&logoColor=white) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
 - 🔐 Role-based portal for students, TPOs & recruiters with secure auth
 - 🤖 ML-based ATS resume analyzer scoring 50+ resumes against job descriptions
