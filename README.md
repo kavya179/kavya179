@@ -80,7 +80,7 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 ### 🚓 [Crime Data Management System](https://github.com/kavya179/Crime-Data-Management-System)
 **Console-based Records System**
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-4479A1?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - 👮 Role-based access for Citizens, Officers & Admins
 - 📁 Case reporting, tracking & investigation workflows
