@@ -54,7 +54,7 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 ### 🤝 [CreatorSync](https://github.com/kavya179/CreatorSync)
 **Brand–Creator Collaboration Platform**
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - 🌐 Full-stack MERN app connecting brands with content creators
 - 🔑 JWT auth with role-based dashboards for brands & creators
