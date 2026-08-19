@@ -120,17 +120,24 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 
 ## Achievements & Certifications
 
-| Achievement | Issuer | Date |
+**🏆 Achievements & Recognitions**
+
+| Achievement | Organized By | Date |
 |---|---|---|
-| Successful Prototype Submission, Solution Challenge 2026: Build with AI | Google | Jul 2026 |
-| TCS iON Career Edge – Young Professional | Tata Consultancy Services | Oct 2025 |
+| Successful Prototype Submission — Solution Challenge 2026: Build with AI | Google | Jul 2026 |
+| Research Poster Presentation — ICRAET 2026 | IFERP Academy & LJK University | Jun 2026 |
+| 2nd Runner-Up — Prompt Craft, Lakshya 2.0 TechFest | L.D. College of Engineering | Apr 2026 |
+| TechFest Participation — Hackovate '25, Innovation Village '26, Tic Tech Toe '26 | LJ University / DA-IICT | 2025–26 |
+
+**📜 Certifications**
+
+| Certification | Issuer | Date |
+|---|---|---|
+| TCS iON Career Edge — Young Professional | Tata Consultancy Services | Oct 2025 |
 | AI Fluency for Students | Anthropic & Ringling College of Art + Design | 2026 |
-| Research Poster Presentation, ICRAET 2026 | IFERP Academy & LJK University | Jun 2026 |
-| 2nd Runner-Up, Prompt Craft – Lakshya 2.0 TechFest | L.D. College of Engineering | Apr 2026 |
 | Exploratory Data Analysis for Machine Learning | IBM (Coursera) | May 2026 |
 | Introduction to HTML, CSS & JavaScript | IBM (Coursera) | Dec 2025 |
 | Introduction to Java | LearnQuest (Coursera) | Jan 2025 |
-| TechFest Participation – Hackovate '25, Innovation Village '26, Tic Tech Toe '26 | LJ University / DA-IICT | 2025–26 |
 
 <br/>
 
