@@ -38,60 +38,78 @@ IT Engineering student at LJ University (2024–2028, CGPA 7.9) with hands-on ex
 <tr>
 <td width="50%" valign="top">
 
-**[PlaceSync](https://github.com/kavya179/PlaceSync)** — College Placement Portal
-`Python` `Django` `HTML/CSS` `SQLite3`
-- Role-based portal for students, TPOs & recruiters with secure auth
-- ML-based ATS resume analyzer scoring 50+ resumes against job descriptions
-- Python scraper automating placement discovery (~40% less manual effort)
+### 🎓 [PlaceSync](https://github.com/kavya179/PlaceSync)
+**College Placement Portal**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+- 🔐 Role-based portal for students, TPOs & recruiters with secure auth
+- 🤖 ML-based ATS resume analyzer scoring 50+ resumes against job descriptions
+- ⚡ Python scraper automating placement discovery — cut manual effort by ~40%
 
 </td>
 <td width="50%" valign="top">
 
-**[CreatorSync](https://github.com/kavya179/CreatorSync)** — Brand–Creator Collaboration Platform
-`React.js` `Node.js` `Express.js` `MongoDB`
-- Full-stack MERN app connecting brands with content creators
-- JWT auth with role-based dashboards for brands & creators
-- REST APIs powering campaign workflows & creator analytics
+### 🤝 [CreatorSync](https://github.com/kavya179/CreatorSync)
+**Brand–Creator Collaboration Platform**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**[Vyapar - DigiKhata](https://github.com/kavya179/Vyapar-DigiKhata-innovation-village-)** — SME Bookkeeping & Inventory Ecosystem
-`Streamlit` `Python` `SQLite3`
-- Real-time relational ledger tracking for small businesses
-- Multi-stage credit recovery reminders (10/20/30+ days)
-- Built for the Innovation Village hackathon
-
-</td>
-<td width="50%" valign="top">
-
-**[Crime Data Management System](https://github.com/kavya179/Crime-Data-Management-System)** — Console-based Records System
-`Java` `JDBC` `MySQL`
-- Role-based access for Citizens, Officers & Admins
-- Case reporting, tracking & investigation workflows
-- Relational schema design with JDBC connectivity
+- 🌐 Full-stack MERN app connecting brands with content creators
+- 🔑 JWT auth with role-based dashboards for brands & creators
+- 📊 REST APIs powering campaign workflows & creator analytics
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[RakhtSeva](https://github.com/kavya179/RakhtSeva)** — Blood Donation Management Platform
-`HTML5` `CSS3` `JavaScript` `Bootstrap 5`
-- Location-aware Emergency Broadcasts for urgent requests
-- Dynamic data visualization for donor/recipient stats
-- Fully responsive UI built with Bootstrap 5
+### 💰 [Vyapar - DigiKhata](https://github.com/kavya179/Vyapar-DigiKhata-innovation-village-)
+**SME Bookkeeping & Inventory Ecosystem**
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+- 📒 Real-time relational ledger tracking for small businesses
+- ⏰ Multi-stage credit recovery reminders (10/20/30+ days)
+- 🏆 Built for the Innovation Village hackathon
 
 </td>
 <td width="50%" valign="top">
 
-**[BRTS Booking System](https://github.com/kavya179/BRTS-booking-system)** — Smart Ticketing & Card Emulator
-`Java`
-- Cartesian station grid mapping for route modeling
-- Euclidean-distance based dynamic fare computation
-- Simulated automated card generation & ticketing flow
+### 🚓 [Crime Data Management System](https://github.com/kavya179/Crime-Data-Management-System)
+**Console-based Records System**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 👮 Role-based access for Citizens, Officers & Admins
+- 📁 Case reporting, tracking & investigation workflows
+- 🗄️ Relational schema design with JDBC connectivity
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 [RakhtSeva](https://github.com/kavya179/RakhtSeva)
+**Blood Donation Management Platform**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+- 🚨 Location-aware Emergency Broadcasts for urgent requests
+- 📈 Dynamic data visualization for donor/recipient stats
+- 📱 Fully responsive UI built with Bootstrap 5
+
+</td>
+<td width="50%" valign="top">
+
+### 🚌 [BRTS Booking System](https://github.com/kavya179/BRTS-booking-system)
+**Smart Ticketing & Card Emulator**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+- 🗺️ Cartesian station grid mapping for route modeling
+- 💳 Euclidean-distance based dynamic fare computation
+- 🎫 Simulated automated card generation & ticketing flow
 
 </td>
 </tr>
